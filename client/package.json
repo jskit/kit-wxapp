@@ -1,0 +1,16 @@
+{
+  "name": "kit-wxapp-client",
+  "version": "0.0.1",
+  "description": "微信小程序 client 模板",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jskit/kit-wxapp.git"
+  },
+  "keywords": [],
+  "author": "jskit",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
