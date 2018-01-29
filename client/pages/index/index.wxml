@@ -1,2 +1,11 @@
-<!--pages/index.wxml-->
-<text>{{ content }}</text>
+<!--pages/index/index.wxml-->
+<import src="/components/common/head.wxml" />
+<import src="/components/common/foot.wxml" />
+
+<view>
+  <template is="head" data="{{title: 'example'}}"/>
+
+  <text>{{ content }}</text>
+
+  <template is="foot" data="{{content: 'foot'}}" />
+</view>

@@ -97,7 +97,6 @@ form{
   margin: 100rpx 0 30rpx 0;
   text-align: center;
   color: #1aad19;
-  font-size: 0;
 }
 .icon-foot{
   width: 152rpx;

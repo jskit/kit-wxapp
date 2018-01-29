@@ -1,1 +1,3 @@
-/* pages/index.wxss */
+/* pages/index/index.wxss */
+
+@import "/components/common/index.wxss";
